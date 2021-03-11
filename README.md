@@ -41,7 +41,7 @@ Aplicação Mobile desenvolvida durante o bootcamp GoStack da Rocketseat utiliza
 <h2> Pré-requisitos </h2> 
 
 Para rodar essa aplicação você pode utilizar um emulador ou seu próprio celular com Android ou iOS. Caso tenha dúvidas de como fazer isso, siga o guia:<br>
-<a href = "https://docs.rocketseat.dev/ambiente-react-native/introducao"> React Native - Rocketseat Docs </a>
+<a href = "https://react-native.rocketseat.dev/"> React Native - Rocketseat Docs </a>
 
 <h2> Instalação </h2> 
 
