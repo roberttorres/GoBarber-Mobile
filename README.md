@@ -36,3 +36,31 @@ Aplicação Mobile desenvolvida durante o bootcamp GoStack da Rocketseat utiliza
     <b> ESLint/Prettier/Editor Config </b> — Ferramentas para formatar e manter padrão de código
   </li>  
 </ul>
+
+<h2> Pré-requisitos </h2> 
+
+Para rodar essa aplicação você pode utilizar um emulador ou seu próprio celular com Android ou iOS. Caso tenha dúvidas de como fazer isso, siga o guia:<br>
+<a href = "https://docs.rocketseat.dev/ambiente-react-native/introducao"> React Native - Rocketseat Docs </a>
+
+<h2> Instalação </h2> 
+
+Antes de rodar essa aplicação certifique-se que o <a href="https://github.com/roberttorres/GoBarber-API"> backend </a> também esteja rodando! <p>
+
+1. Abra seu terminal em uma pasta qualquer e clone este repositório <code> git clone https://github.com/roberttorres/GoBarber-Mobile.git. </code>
+2. Navegue até o diretório da aplicação <code> cd mobile. </code>
+3. Rode <code> yarn </code> para instalar todas as dependênciasdo projeto.
+4. Para dispositivos com sistema iOS, rode: <code> yarn react-native run-ios </code> <br> Para dispositivos com sistema Android, rode: <code> yarn react-native run-android </code> <br>
+5. Certifique-se de permitir a instalação do app no seu dispositivo ou emulador.
+6. Aguarde finalizar a instalação do app e em seguida rode o comando <code> react-native start </code>
+
+E pronto, já pode utilizar e testar o app normalmente!
+
+<h2> <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width = "22" height = "22" > Licença </h2>
+
+Esse projeto se encontra sob a licença <b> MIT. </b> Acesse o arquivo <a href="/LICENSE"> LICENSE </a> para mais detalhes.    
+
+<p align="center"> 
+    Made with ❤️ by <a href="https://www.linkedin.com/in/robert-torres1000/">Robert Torres</a>
+</p>    
+
+6. Rode <code> yarn start </code> ou <code> npm run start </code> e aguarde o sistema ser aberto em <code> http://localhost:3000. </code>
