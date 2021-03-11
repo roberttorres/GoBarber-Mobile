@@ -48,7 +48,7 @@ Antes de rodar essa aplicação certifique-se que o <a href="https://github.com/
 
 1. Abra seu terminal em uma pasta qualquer e clone este repositório <code> git clone https://github.com/roberttorres/GoBarber-Mobile.git. </code>
 2. Navegue até o diretório da aplicação <code> cd mobile. </code>
-3. Rode <code> yarn </code> para instalar todas as dependênciasdo projeto.
+3. Rode <code> yarn </code> para instalar todas as dependências do projeto.
 4. Para dispositivos com sistema iOS, rode: <code> yarn react-native run-ios </code> <br> Para dispositivos com sistema Android, rode: <code> yarn react-native run-android </code> <br>
 5. Certifique-se de permitir a instalação do app no seu dispositivo ou emulador.
 6. Aguarde finalizar a instalação do app e em seguida rode o comando <code> react-native start </code>
@@ -62,5 +62,3 @@ Esse projeto se encontra sob a licença <b> MIT. </b> Acesse o arquivo <a href="
 <p align="center"> 
     Made with ❤️ by <a href="https://www.linkedin.com/in/robert-torres1000/">Robert Torres</a>
 </p>    
-
-6. Rode <code> yarn start </code> ou <code> npm run start </code> e aguarde o sistema ser aberto em <code> http://localhost:3000. </code>
