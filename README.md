@@ -15,6 +15,10 @@
 <h2> Sistema Web de agendamento para barbearia </h2> 
 
 <h2> Preview </h2>
+ 
+ <p align="center">
+  <img src="/gif/gif_mobile.gif" alt="animated" />
+</p>
 
 <h2> Descrição </h2> 
 
