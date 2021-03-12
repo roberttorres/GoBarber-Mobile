@@ -52,7 +52,7 @@ Para rodar essa aplicação você pode utilizar um emulador ou seu próprio celu
 Antes de rodar essa aplicação certifique-se que o <a href="https://github.com/roberttorres/GoBarber-API"> backend </a> também esteja rodando! <p>
 
 1. Abra seu terminal em uma pasta qualquer e clone este repositório <code> git clone https://github.com/roberttorres/GoBarber-Mobile.git. </code>
-2. Navegue até o diretório da aplicação <code> cd mobile. </code>
+2. Navegue até o diretório da aplicação <code> cd [nome_do_diretorio]. </code>
 3. Rode <code> yarn </code> para instalar todas as dependências do projeto.
 4. Para dispositivos com sistema iOS, rode: <code> yarn react-native run-ios </code> <br> Para dispositivos com sistema Android, rode: <code> yarn react-native run-android </code> <br>
 5. Certifique-se de permitir a instalação do app no seu dispositivo ou emulador.
