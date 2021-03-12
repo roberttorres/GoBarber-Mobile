@@ -12,7 +12,7 @@
 <img src = "https://camo.githubusercontent.com/fcaa7457b33554de772405dead3b4763c606ab9d19d37ee84966c16fa7db63d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f62696c652d253233666636396234">
 </p>
 
-<h2> Sistema Web de agendamento para barbearia </h2> 
+<h2> Aplicativo de agendamento para barbearia </h2> 
 
 <h2> Preview </h2>
  
